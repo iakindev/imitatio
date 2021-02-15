@@ -1,0 +1,9 @@
+{
+  "name": "imitatio",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/iakindev/imitatio",
+  "author": "İlyas Akın <ashnwor@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
