@@ -5,5 +5,14 @@
   "repository": "https://github.com/iakindev/imitatio",
   "author": "İlyas Akın <ashnwor@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@atolye15/eslint-config": "^1.2.0",
+    "eslint": "^7.20.0",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
 }
