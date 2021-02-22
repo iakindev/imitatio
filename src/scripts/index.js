@@ -1,3 +1,5 @@
+/* eslint-disable eslint-comments/disable-enable-pair */
+/* eslint-disable no-console */
 import '../styles/index.scss';
 
 if (process.env.NODE_ENV === 'development') {
